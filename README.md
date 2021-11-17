@@ -1,3 +1,4 @@
+```js
 const jose = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS,Postgres],
@@ -9,6 +10,7 @@ const jose = {
                       },
  challenge: "I'm starting the Final Project on Henry"
 }
+```
 <!--
 **josesantangelo/josesantangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
