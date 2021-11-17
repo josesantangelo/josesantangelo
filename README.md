@@ -1,14 +1,18 @@
-const jose = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS,Postgres],
-  tools: [React, Redux, Node,Express,Sequelize],
-  architecture: ["Fullstack Development"],
+
+
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        student: "Henry",
-                        assistant: "Henry Hero Program",
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
                       },
- challenge: "I'm starting the Final Project on Henry"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+
 
 <!--
 **josesantangelo/josesantangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
