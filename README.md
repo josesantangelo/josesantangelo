@@ -8,7 +8,7 @@ const jose = {
                         student: "Henry",
                         assistant: "Henry Hero Program",
                       },
- challenge: "I'm starting the Final Project on Henry"
+ challenge: "i´m starting Henry´s Final Project"
 }
 ```
 
