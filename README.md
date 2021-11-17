@@ -11,8 +11,11 @@ const jose = {
  challenge: "i´m starting Henry´s Final Project"
 }
 ```
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josesantangelo&theme=buefy&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantangelo&theme=buefy&layout=compact" />
+</div>
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=josesantangelo&show_icons=true&hide_border=true)
 
   <a href="https://www.linkedin.com/in/jose-luis-santangelo-fullstack">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
