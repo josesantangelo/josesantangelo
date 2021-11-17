@@ -13,6 +13,17 @@ const jose = {
 ```
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=josesantangelo&show_icons=true&hide_border=true)
+
+  <a href="https://www.linkedin.com/in/jose-luis-santangelo-fullstack">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+
+  <a href="https://www.instagram.com/_josesantangelo/">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:jose.l.santangelo@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 <!--
 **josesantangelo/josesantangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
