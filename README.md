@@ -33,6 +33,11 @@ const jose = {
   <a href="mailto:jose.l.santangelo@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+    <a href="mailto:jose.l.santangelo@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://freesvgs.com/wp-content/uploads/2021/06/Poke-Ball-Pokemon-SVG.png" />
+  </a>
+  
+
 <!--
 **josesantangelo/josesantangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
