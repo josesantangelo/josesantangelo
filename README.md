@@ -23,17 +23,17 @@ const jose = {
 </div>
 <br>
 
-  <a href="https://www.linkedin.com/in/jose-luis-santangelo-fullstack">
+  <a href="https://www.linkedin.com/in/jose-luis-santangelo-fullstack" target="_blank">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
 
-  <a href="https://www.instagram.com/_josesantangelo/">
+  <a href="https://www.instagram.com/_josesantangelo/" target="_blank">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="mailto:jose.l.santangelo@gmail.com">
+  <a href="mailto:jose.l.santangelo@gmail.com" target="_blank">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-    <a href="https://pokemon-pi-roan.vercel.app/">
+    <a href="https://pokemon-pi-roan.vercel.app/" target="_blank">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://freesvgs.com/wp-content/uploads/2021/06/Poke-Ball-Pokemon-SVG.png" />
   </a>
   
