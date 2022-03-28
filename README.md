@@ -14,6 +14,7 @@ const jose = {
  challenge: "i´m looking for my first job experience as developer!
  projects: {
  Pokemon App: http://https://pokemon-pi-roan.vercel.app/,
+ Alkemy-control App : https://challenge-alkemy-rk25dper6-josesantangelo.vercel.app/
 }
 ```
 <br>
@@ -37,7 +38,9 @@ const jose = {
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://freesvgs.com/wp-content/uploads/2021/06/Poke-Ball-Pokemon-SVG.png" />
   </a>
   
-
+  <a href="https://challenge-alkemy-rk25dper6-josesantangelo.vercel.app/" target="_blank">
+  <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://www.alkemy.org/logo512.png" />
+  </a>
 <!--
 **josesantangelo/josesantangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
