@@ -5,13 +5,15 @@
 const jose = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS,Postgres],
-  tools: [React, Redux, Node,Express,Sequelize],
+  tools: [React, Redux, Node,Express,Sequelize, ChakraUI],
   architecture: ["Fullstack Development"],
   techCommunities: {
                         student: "Henry",
                         assistant: "Henry Hero Program",
                       },
- challenge: "i´m starting Henry´s Final Project"
+ challenge: "i´m looking for my first job experience as developer!
+ projects: {
+ Pokemon App: http://https://pokemon-pi-roan.vercel.app/,
 }
 ```
 <br>
