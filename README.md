@@ -33,7 +33,7 @@ const jose = {
   <a href="mailto:jose.l.santangelo@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-    <a href="mailto:jose.l.santangelo@gmail.com">
+    <a href="https://pokemon-pi-roan.vercel.app/">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://freesvgs.com/wp-content/uploads/2021/06/Poke-Ball-Pokemon-SVG.png" />
   </a>
   
